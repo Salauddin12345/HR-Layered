@@ -1,0 +1,1 @@
+java -classpath build\libs\pl.jar;..\proxybl\build\libs\proxybl.jar;..\common\dist\hr-common.jar;c:\itext7\*;..\netcommon\build\libs\netcommon.jar;..\netclient\build\libs\netclient.jar;..\netserver\build\libs\netserver.jar;. com.thinking.machines.hr.pl.Main
